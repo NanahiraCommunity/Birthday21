@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <path
+       id="path871"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 9.5,3.4980469 C 8.9692013,3.4970899 8.4597933,3.7071768 8.0839844,4.0820312 7.5802053,4.5832195 7.5000003,5.0000002 7.5000003,6.0000002 l -3.4980472,0.00195 c -1.1053322,-0.00108 -2.0019537,0.8946673 -2.0019531,2 -5e-7,1.1053327 0.896621,2.0010789 2.0019531,1.9999999 L 7.5000003,10 c 0,1 0.084364,1.413692 0.5839841,1.914062 0.7816785,0.784764 2.0523056,0.784764 2.8339846,0 l 2.49414,-2.5019526 c 0.78074,-0.7810583 0.78074,-2.0470667 0,-2.828125 L 10.917969,4.0820312 C 10.541681,3.706697 10.031475,3.4965708 9.5,3.4980469 Z"
+       transform="scale(0.26458333)" />
+    <g
+       id="path1858"
+       style="fill:#833333;fill-opacity:1">
+      <path
+         style="color:#000000;fill:#833333;fill-rule:evenodd;stroke-width:1.05833;-inkscape-stroke:none;fill-opacity:1"
+         d="M 2.5135417,1.3229167 V 2.9104166"
+         id="path2020" />
+    </g>
+  </g>
+</svg>
